@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Facundo Curien
 #### Data Analyst | Public Accountant and Business Administrator
 
-
-### Skills and Experience
+## Skills and Experience
 * ✅ SQL
 * ✅ POWERBI
 * ✅ EXCEL
