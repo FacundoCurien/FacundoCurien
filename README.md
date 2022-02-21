@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Facundo Curien
 #### Data Analyst | Public Accountant and Business Administrator
 
-Skills: SQL / POWERBI / EXCEL 
+### Skills and Experience
+* ✅ SQL
+* ✅ POWERBI
+* ✅ EXCEL
+
 
 - 📫 How to reach me: facundocurien@gmail.com 
 
