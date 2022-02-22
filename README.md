@@ -7,10 +7,10 @@ Data Analyst | Public Accountant and Business Administrator
 * ✅ EXCEL
 
 ## Projects
-* 👉 [Excel Project] (https://github.com/FacundoCurien/Excel_Project/blob/main/Excel%20Project.xlsx)
-* 👉 [SQL Data Cleaning Project] (https://github.com/FacundoCurien/SQL_Data_Cleaning_Project/blob/main/SQL%20Data%20Cleaning.sql)
-* 👉 [SQL Data Exploration Project] (https://github.com/FacundoCurien/SQL_Data_Exploration_Project/blob/main/SQL%20Data%20Exploration.sql)
-* 👉 [PowerBI Data Visualization Project] (https://github.com/FacundoCurien/PowerBI_Data_Visualization_Project)
+* 👉 [Excel Project](https://github.com/FacundoCurien/Excel_Project/blob/main/Excel%20Project.xlsx)
+* 👉 [SQL Data Cleaning Project](https://github.com/FacundoCurien/SQL_Data_Cleaning_Project/blob/main/SQL%20Data%20Cleaning.sql)
+* 👉 [SQL Data Exploration Project](https://github.com/FacundoCurien/SQL_Data_Exploration_Project/blob/main/SQL%20Data%20Exploration.sql)
+* 👉 [PowerBI Data Visualization Project](https://github.com/FacundoCurien/PowerBI_Data_Visualization_Project)
 
 ## Contact
 - 📫 facundocurien@gmail.com
