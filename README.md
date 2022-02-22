@@ -7,9 +7,10 @@ Data Analyst | Public Accountant and Business Administrator
 * ✅ EXCEL
 
 ## Projects
-* ↪ SQL Data Cleaning Project
-* ➡ SQL Data Cleaning Project
+* 👉 Excel Project
 * 👉 SQL Data Cleaning Project
+* 👉 SQL Data Exploration Project
+* 👉 PowerBI Data Visualization Project
 
 ## Contact
 - 📫 facundocurien@gmail.com
