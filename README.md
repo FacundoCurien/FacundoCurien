@@ -6,6 +6,11 @@ Data Analyst | Public Accountant and Business Administrator
 * ✅ POWERBI
 * ✅ EXCEL
 
+## Projects
+* ↪ SQL Data Cleaning Project
+* ➡ SQL Data Cleaning Project
+* 👉 SQL Data Cleaning Project
+
 ## Contact
 - 📫 facundocurien@gmail.com
 - 📞 +39 3516220882
